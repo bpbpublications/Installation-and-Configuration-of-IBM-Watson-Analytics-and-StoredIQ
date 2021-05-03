@@ -10,11 +10,11 @@ This book provides instructions for installation, configuration and troubleshoot
 This book includes comprehensive technical guidance, enabling IT professionals to gain an in-depth knowledge of the installation of a broad range of IBM Software products across different operating systems. 
 
 ## What you will learn
-● Step-by-step installation and configuration of IBM Watson Analytics.
-● Managing RedHat Enterprise Systems and IBM Cloud Platforms.
-● Installing, configuring, and managing IBM StoredIQ.
-● Best practices to administer and maintain IBM software packages.
-● Upgrading VMware stations and installing Docker.
+* Step-by-step installation and configuration of IBM Watson Analytics.
+* Managing RedHat Enterprise Systems and IBM Cloud Platforms.
+* Installing, configuring, and managing IBM StoredIQ.
+* Best practices to administer and maintain IBM software packages.
+* Upgrading VMware stations and installing Docker.
 
 ## Related Products
 * [Getting started with Deep Learning for Natural Language Processing](https://in.bpbonline.com/products/getting-started-with-deep-learning-for-natural-language-processing?_pos=1&_sid=667fe5160&_ss=r)

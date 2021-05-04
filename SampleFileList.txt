@@ -1,0 +1,23 @@
+This List: SampleFileList.txt
+
+Chapter 4 section 4.9.6
+Example custom_ldap_config.xml
+
+Chapter 4 section 4.13.9.2
+Example server.xml
+
+Chapter 11 UIMA Pipeline and Java Code Extensions
+
+Section 11.2 Figure 11.24  
+SimpleValidator.java
+
+Section 11.2 Figure 11.26 
+concepts.xml file
+
+Section 11.2 - SQL Creation Code
+CreateICAUser.sql
+CreateDBEXECUTE_Procedure.sql
+WhiteListValidator.java
+
+
+

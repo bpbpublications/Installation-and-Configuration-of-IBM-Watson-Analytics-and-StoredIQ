@@ -1,0 +1,6 @@
+<basicRegistry id="basic" realm="customRealm">
+<user name="data-explorer-admin" password="TH1nk1710" />
+<user name="user1" password="password1" />
+<user name="user2" password="password2" />
+<user name="usern" password="passwordn" />
+</basicRegistry>
